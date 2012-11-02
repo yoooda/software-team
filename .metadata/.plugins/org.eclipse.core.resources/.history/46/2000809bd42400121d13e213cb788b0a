@@ -1,0 +1,31 @@
+/*
+ * Vector2.h
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#ifndef VECTOR2_H_
+#define VECTOR2_H_
+
+class Vector2 {
+
+	double x,y, distance, angle;
+public:
+	Vector2(double nX=0,double nY=0);
+	Vector2(double nDistance,double nAngle);
+	//get
+	double get_angle();
+	double get_distance();
+	double get_x();
+	double get_y();
+	//set
+	void set_angle(double nAngle);
+	void set_distance(double nDistance);
+	void set_x(double nX);
+	void set_y(double nY);
+		
+	virtual ~Vector2();
+};
+
+#endif /* VECTOR2_H_ */

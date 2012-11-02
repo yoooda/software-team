@@ -1,0 +1,22 @@
+/*
+ * Positioner.h
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#ifndef POSITIONER_H_
+#define POSITIONER_H_
+
+class Positioner {
+	
+private:
+	
+public:
+	Positioner(Gyro * nGyro,Accelometer * nAc );
+	void update();
+	
+	virtual ~Positioner();
+};
+
+#endif /* POSITIONER_H_ */

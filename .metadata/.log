@@ -1,0 +1,120 @@
+!SESSION 2012-11-02 20:28:51.183 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+This is a continuation of log file C:\WindRiver\workspace\.metadata\.bak_0.log
+Created Time: 2012-11-02 20:28:57.915
+!SESSION 2012-11-02 20:28:51.183 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide.common.core 4 0 2012-11-02 20:28:57.916
+!MESSAGE [Activities] Missing activity handler extension. Activity support is disabled, all packages are permanently enabled!
+
+!ENTRY com.windriver.ide 1 0 2012-11-02 20:29:05.132
+!MESSAGE Workbench start-up time: 14.09s, Main window shown after: 13.66s.
+
+!ENTRY com.windriver.ide.common.core 1 0 2012-11-02 20:29:06.869
+!MESSAGE Workbench license obtained in 0.15s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 20:29:19.052
+!MESSAGE C:\WindRiver\workbench-3.3\foundation\x86-win32\bin\wtxregd.exe
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 20:29:21.772
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 20:29:24.641
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:6640, PID=5276, Session="dfw-wb331-yuval"
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 20:29:25.197
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+!SESSION 2012-11-02 21:55:33.918 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide 1 0 2012-11-02 21:55:37.309
+!MESSAGE Workbench start-up time: 3.40s, Main window shown after: 3.39s.
+
+!ENTRY com.windriver.ide.common.core 1 0 2012-11-02 21:55:37.722
+!MESSAGE Workbench license obtained in 0.02s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:55:37.794
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:55:37.966
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:10330, PID=7068, Session="dfw-wb331-yuval"
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:55:38.215
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+!SESSION 2012-11-02 21:57:11.075 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide 1 0 2012-11-02 21:57:14.479
+!MESSAGE Workbench start-up time: 3.41s, Main window shown after: 3.41s.
+
+!ENTRY com.windriver.ide.common.core 1 0 2012-11-02 21:57:14.874
+!MESSAGE Workbench license obtained in 0.02s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:14.916
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:15.094
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:10370, PID=5808, Session="dfw-wb331-yuval"
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:15.326
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+!SESSION 2012-11-02 21:57:41.019 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide 1 0 2012-11-02 21:57:44.352
+!MESSAGE Workbench start-up time: 3.35s, Main window shown after: 3.34s.
+
+!ENTRY com.windriver.ide.common.core 1 0 2012-11-02 21:57:44.751
+!MESSAGE Workbench license obtained in 0.02s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:44.793
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:44.968
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:10397, PID=5916, Session="dfw-wb331-yuval"
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:57:45.203
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+!SESSION 2012-11-02 21:58:16.965 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=iw_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide.common.core 1 0 2012-11-02 21:58:20.852
+!MESSAGE Workbench license obtained in 0.02s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide 1 0 2012-11-02 21:58:20.882
+!MESSAGE Workbench start-up time: 3.93s, Main window shown after: 3.48s.
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:58:20.906
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:58:21.073
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:10429, PID=4504, Session="dfw-wb331-yuval"
+
+!ENTRY com.windriver.ide.target 1 0 2012-11-02 21:58:21.349
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')

@@ -1,0 +1,21 @@
+/*
+ * Positioner.cpp
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#include "Positioner.h"
+
+Positioner::Positioner() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Positioner::Positioner(Gyro *nGyro, Accelometer *nAc)
+{
+}
+
+Positioner::~Positioner() {
+	// TODO Auto-generated destructor stub
+}

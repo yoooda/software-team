@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WRUpdateWindRiverProductsWizard">
+	</section>
+	<section name="WRProjectWizard">
+		<list key="WRWizardNewProjectCreationPage.STORE_PROJECT_LOCATION">
+			<item value="C:\WindRiver\workspace\return"/>
+			<item value="C:\WindRiver\workspace\SCHNITZEL"/>
+			<item value="C:\WindRiver\workspace\mico"/>
+			<item value="C:\WindRiver\workspace\micro"/>
+		</list>
+	</section>
+</section>

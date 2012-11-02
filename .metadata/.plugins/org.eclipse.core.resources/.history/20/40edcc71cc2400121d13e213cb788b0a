@@ -1,0 +1,17 @@
+/*
+ * positioner.cpp
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#include "positioner.h"
+
+positioner::positioner() {
+	// TODO Auto-generated constructor stub
+
+}
+
+positioner::~positioner() {
+	// TODO Auto-generated destructor stub
+}

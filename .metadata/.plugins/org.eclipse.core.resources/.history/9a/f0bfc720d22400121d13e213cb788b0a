@@ -1,0 +1,29 @@
+/*
+ * Vector2.cpp
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#include "Vector2.h"
+
+
+Vector2::Vector2(float nX,float nY) {
+	
+	// TODO Auto-generated constructor stub
+	x = nX;
+	y = nY;
+
+}
+
+Vector2::Vector2(float nDistance,float nAngle)
+{
+	distance = nDistance;
+	angle = nAngle;
+}
+
+float get_angle()
+
+Vector2::~Vector2() {
+	// TODO Auto-generated destructor stub
+}

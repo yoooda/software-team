@@ -1,0 +1,31 @@
+/*
+ * Vector2.h
+ *
+ *  Created on: 02/11/2012
+ *      Author: yuval
+ */
+
+#ifndef VECTOR2_H_
+#define VECTOR2_H_
+
+class Vector2 {
+private:
+	float x,y, distance, angle;
+public:
+	Vector2(float x=0,float y=0);
+	Vector2(float distance,float angle);
+	//get
+	float get_angle();
+	float get_distance();
+	float get_x();
+	float get_y();
+	//set
+	float set_angle();
+	float set_distance();
+	float set_x();
+	float set_y();
+		
+	virtual ~Vector2();
+};
+
+#endif /* VECTOR2_H_ */
