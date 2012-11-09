@@ -1,0 +1,19 @@
+# 15:22:57.440:0: Opening log file on: Sat Nov 03 15:22:57 2012
+# 15:22:57.440:0: DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11
+# 15:22:57.440:0: DFW plugin directories: C:/WindRiver/workbench-3.3/dfw/host/x86-win32/dfwplugins
+# 15:22:57.440:0: C:\WindRiver\workbench-3.3\dfw\x86-win32\bin\dfwserver.exe -protocol mi -io sockets -useregistry -session dfw-wb331-yuval -registryhost 127.0.0.1 -ls+ C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwserver.log -lt+ C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwstatus.log 
+# 15:22:57.795:1: Opening session 3f9ee8
+15:22:57.796:1: c:	\0012
+15:22:57.796:1: c:	-wrs-log -lt "" -max 5M
+15:22:57.796:1: r:	^done
+15:22:57.796:1: r:	(gdb)
+15:22:57.796:1: r:	^done,lt="C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwstatus.log",lt="C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwstatus.log"
+15:22:57.796:1: r:	(gdb)
+15:22:57.796:1: c:	-wrs-log -ls "" -max 5M
+15:22:57.836:1: r:	^done,ls="C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwserver.log",ls="C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.target/dfwserver.log"
+15:22:57.836:1: r:	(gdb)
+# 15:22:57.836:1: Closing session 3f9ee8
+# 15:22:57.837:0: (listening - gdbmi on port 2749)
+# 15:22:57.894:0: initialization finished, pid=4400
+# 15:22:57.937:2: Opening session 284a528
+# 15:22:58.286:2: Closing session 284a528

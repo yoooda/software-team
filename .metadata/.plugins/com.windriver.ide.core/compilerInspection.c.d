@@ -1,2 +1,2 @@
 compilerInspection.o:  \
- C:/WindRiver/workspace/.metadata/.plugins/com.windriver.ide.core/compilerInspection.c
+ C:/Users/yuval/Documents/GitHub/software-team/.metadata/.plugins/com.windriver.ide.core/compilerInspection.c

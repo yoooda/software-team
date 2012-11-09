@@ -1,6 +1,7 @@
-#Fri Oct 12 14:39:47 IST 2012
+#Fri Nov 09 14:39:44 IST 2012
 ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.cdt.ui.presentation\tTorg.eclipse.cdt.ui.CEditor.presentation
 org.eclipse.cdt.ui.editors.textfont=1|Courier New|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
 eclipse.preferences.version=1
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
 ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.cdt.ui.editors.textfont
 UIActivities.com.windriver.ide.ui.discouragedCDTActivity=true
