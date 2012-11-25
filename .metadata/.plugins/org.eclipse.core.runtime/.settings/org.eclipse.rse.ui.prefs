@@ -1,3 +1,3 @@
-#Fri Nov 09 10:49:07 IST 2012
+#Fri Nov 23 12:44:45 IST 2012
 eclipse.preferences.version=1
-org.eclipse.rse.preferences.order.connections=yuval-laptop.Local;yuval-laptop.vxsim0;yuval-laptop.vxsim1_smp
+org.eclipse.rse.preferences.order.connections=yuval-laptop.Local;yuval-laptop.vxsim0;yuval-laptop.vxsim1_smp;yuval-laptop.VxWorks6x_10.19.43.2_0

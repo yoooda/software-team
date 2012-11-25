@@ -4,6 +4,7 @@
 	</section>
 	<section name="WRProjectWizard">
 		<list key="WRWizardNewProjectCreationPage.STORE_PROJECT_LOCATION">
+			<item value="C:\Users\yuval\Documents\GitHub\software-team\PDFProject"/>
 			<item value="C:\WindRiver\workspace\return"/>
 			<item value="C:\WindRiver\workspace\SCHNITZEL"/>
 			<item value="C:\WindRiver\workspace\mico"/>

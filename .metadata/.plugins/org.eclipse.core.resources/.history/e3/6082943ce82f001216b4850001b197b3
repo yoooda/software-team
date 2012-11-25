@@ -1,0 +1,25 @@
+#include "OI.h"
+#include "Commands/DriveInSquare.h"
+#include "Commands/DriveStraight.h"
+#include "Commands/TurnRight.h"
+OI::OI() {
+	// Process operator interface input here.
+	this->stick = new Joystick(STICK);
+	this->trigger = new JoystickButton(this->stick,SQUAREBUTTON);
+	this->trigger->WhenPressed(new DriveInSquare());
+	
+	
+	this->forward= new JoystickButton(this->stick,2);
+		this->forward->WhenPressed(new DriveStraight());
+		
+		this->right = new JoystickButton(this->stick,3);
+			this->right->WhenPressed(new TurnRight());
+			
+}
+
+Joystick *OI::GetStick()
+{
+	return this->stick;
+}
+
+

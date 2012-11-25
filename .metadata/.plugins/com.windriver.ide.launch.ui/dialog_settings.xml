@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.windriver.ide.launch.ui.context.WRFlatCompositeLaunchContextSelectorMediatorPage">
+		<section name="com.windriver.ide.launch.ui.context.WRFlatCompositeLaunchContextSelectorMediatorPage$WRFlatCompositeLaunchContextSelectorControl">
+			<item value="false" key="FRC_UserProgram_StartupLibraryInit - CommandBasedRobotTemplate.out - VxWorks6x_10.19.43.2_0.hideUnconnected"/>
+			<item value="false" key="noEntryPoint - CommandBasedRobotTemplate.out - VxWorks6x_10.19.43.2.hideUnconnected"/>
+			<item value="false" key="FRC_UserProgram_StartupLibraryInit - CommandBasedRobotTemplate.out - vxsim0.hideUnconnected"/>
+			<item value="false" key="FRC_UserProgram_StartupLibraryInit - CommandBasedRobotTemplate.out - VxWorks6x_10.19.43.2_0 (1).hideUnconnected"/>
+			<item value="false" key="noEntryPoint - CommandBasedRobotTemplate.out - vxsim0.hideUnconnected"/>
+			<item value="false" key="noEntryPoint - CommandBasedRobotTemplate.out - multiple.hideUnconnected"/>
+			<item value="false" key="noEntryPoint - CommandBasedRobotTemplate.out - VxWorks6x_10.19.43.2_0.hideUnconnected"/>
+			<item value="false" key="noEntryPoint - CommandBasedRobotTemplate.out - noConnection.hideUnconnected"/>
+		</section>
+	</section>
+	<section name="WRLaunchConfigSelectionDialog.com.windriver.ide.launch.vxworks6.tmRunTask">
+		<item value="false" key="new"/>
+		<item value="false" key="duplicate"/>
+		<item value="true" key="launch"/>
+		<item value="false" key="edit"/>
+	</section>
+	<section name="com.windriver.ide.launch.ui.context.WRCompositeContextSelectorTab">
+		<section name="com.windriver.ide.launch.ui.tabs.vxworks.kerneltask.WRVxWorksKernelTaskConfiguratorMediatorPage">
+		</section>
+	</section>
+	<section name="WRVxWorksKernelTaskEntryPointSelectionDialog">
+	</section>
+</section>

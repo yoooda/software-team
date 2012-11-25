@@ -1,0 +1,14 @@
+#include "OI.h"
+
+OI::OI() {
+	// Process operator interface input here.
+	this->stick = new Joystick(STICK);
+	this->trigger = new JoystickButton();
+}
+
+Joystick *OI::GetStick()
+{
+	return this->stick;
+}
+
+

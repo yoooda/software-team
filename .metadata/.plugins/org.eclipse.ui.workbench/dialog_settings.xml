@@ -4,6 +4,19 @@
 		<item value="160" key="DIALOG_Y_ORIGIN"/>
 		<item value="652" key="DIALOG_X_ORIGIN"/>
 	</section>
+	<section name="NewWizardAction">
+		<item value="edu.wpi.first.cppdev.ui.commandWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="edu.wpi.first.cppdev.ui.elementCategory"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="706" key="DIALOG_WIDTH"/>
+		<item value="-75" key="DIALOG_Y_ORIGIN"/>
+		<item value="728" key="DIALOG_HEIGHT"/>
+		<item value="-5" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
 	<section name="ZipFileExportWizard">
 		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
 		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
@@ -11,24 +24,11 @@
 			<item value="C:\Users\yuval\Desktop\pro.tar.gz"/>
 		</list>
 	</section>
-	<section name="InstallationDialogSettings">
-		<item value="706" key="DIALOG_WIDTH"/>
-		<item value="-75" key="DIALOG_Y_ORIGIN"/>
-		<item value="-5" key="DIALOG_X_ORIGIN"/>
-		<item value="728" key="DIALOG_HEIGHT"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-	</section>
-	<section name="NewWizardAction">
-		<item value="edu.wpi.first.cppdev.ui.commandWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="edu.wpi.first.cppdev.ui.elementCategory"/>
-		</list>
-	</section>
 	<section name="ShowViewDialog">
 		<item value="328" key="DIALOG_WIDTH"/>
 		<item value="78" key="DIALOG_Y_ORIGIN"/>
-		<item value="436" key="DIALOG_HEIGHT"/>
 		<item value="520" key="DIALOG_X_ORIGIN"/>
+		<item value="436" key="DIALOG_HEIGHT"/>
 		<item value="1|Ubuntu|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Ubuntu" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="ImportExportAction">

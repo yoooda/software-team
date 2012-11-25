@@ -1,0 +1,13 @@
+#include "OI.h"
+
+OI::OI() {
+	// Process operator interface input here.
+	this->
+}
+
+JoyStick *OI::GetStick()
+{
+	return this->stick;
+}
+
+

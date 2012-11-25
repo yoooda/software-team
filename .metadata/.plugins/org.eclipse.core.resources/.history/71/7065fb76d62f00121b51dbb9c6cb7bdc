@@ -1,0 +1,44 @@
+#include "Chassis.h"
+#include "../Robotmap.h"
+#include "../Commands/DriveWithJoyStick.h"
+
+Chassis::Chassis() : Subsystem("Chassis") {
+	this->drive = new RobotDrive(LEFTMOTOR, RIGHTMOTOR);
+	
+}
+    
+void Chassis::InitDefaultCommand() {
+	// Set the default command for a subsystem here.
+	SetDefaultCommand(new DriveWithJoyStick());
+	
+}
+
+void Chassis::JoystickDrive(Joystick* stick)
+{
+    this->drive->ArcadeDrive(stick, false);
+}
+
+void Chassis::TankDrive(float left, float right)
+{
+	this->drive->TankDrive(left, right);
+	
+}
+
+void Chassis::SquareDrive()
+{
+	this->drive->TankDrive(1,1);
+	this->drive->TankDrive(1,0);
+	this->drive->TankDrive(1,1);
+	this->drive->TankDrive(1,0);
+	this->drive->TankDrive(1,1);
+	this->drive->TankDrive(1,0);
+	this->drive->TankDrive(1,1);
+}
+
+
+
+
+
+
+// Put methods for controlling this subsystem
+// here. Call these from Commands.
