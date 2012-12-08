@@ -1,0 +1,9 @@
+#include "OI.h"
+
+Joystick *OI::getStick()
+{
+}
+
+OI::OI() {
+	stick=new 
+}

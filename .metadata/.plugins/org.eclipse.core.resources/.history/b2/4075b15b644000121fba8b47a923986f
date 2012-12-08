@@ -1,0 +1,44 @@
+#include "Pole.h"
+#include "../Robotmap.h"
+#include "../Commands/StopPole.h"
+Pole::Pole() : PIDSubsystem("Pole") {
+	motor=new Jaguar(MOTORPORT);
+	poten = new AnalogChannel(POTENPORT);
+}
+    
+void Pole::InitDefaultCommand() {
+	// Set the default command for a subsystem here.
+	SetDefaultCommand(new StopPole());
+}
+
+void Pole::UsePIDOutput(double out)
+{
+	motor->Set(out);
+}
+
+void Pole::ReturnPIDInput()
+{
+	return this->PIDGet();
+}
+
+void Pole::moveMotor(float speed)
+{
+	motor->Set(speed);
+}
+
+bool Pole::isMs2Pressed()
+{
+	return poten->GetVoltage() > 2.1;
+}
+
+bool Pole::isMs1Pressed()
+{
+	return poten->GetVoltage() < 0.5;
+}
+
+void Pole::status()
+{
+	SmartDashboard * smd=SmartDashboard::GetInstance();
+	smd->PutData(this);
+	smd->PutDouble("motor speed",(double)motor->Get());
+}

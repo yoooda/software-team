@@ -1,0 +1,55 @@
+#include "MoveWithJoystick.h"
+
+MoveWithJoystick::MoveWithJoystick() {
+	// Use requires() here to declare subsystem dependencies
+	Requires(pole);
+}
+
+// Called just before this Command runs the first time
+void MoveWithJoystick::Initialize() {
+	
+}
+
+// Called repeatedly when this Command is scheduled to run
+void MoveWithJoystick::Execute() {
+	float x=oi->getStick()->GetX();
+	if (x>0)
+		pole->moveMotor(x*(1-pole->isMs1Pressed()));
+	else
+		pole->moveMotor(x*pole->isMs2Pressed());
+	
+	if(!pole->isMs1Pressed())
+	{
+		if(oi->getStick()->GetX() > 0)
+		{
+			pole->moveMotor(oi->getStick()->GetX());
+		}
+	}
+	else if(pole->isMs2Pressed())
+	{
+		if(oi->getStick()->GetX() < 0)
+		{
+			pole->moveMotor(oi->getStick()->GetX());
+		}
+	}
+	else
+	{
+		pole->moveMotor(oi->getStick()->GetX());
+	}
+	}
+}
+
+// Make this return true when this Command no longer needs to run execute()
+bool MoveWithJoystick::IsFinished() {
+	return false;
+}
+
+// Called once after isFinished returns true
+void MoveWithJoystick::End() {
+	
+}
+
+// Called when another command which requires one or more of the same
+// subsystems is scheduled to run
+void MoveWithJoystick::Interrupted() {
+}

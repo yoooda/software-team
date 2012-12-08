@@ -1,0 +1,9 @@
+#include "OI.h"
+Joystick *OI::getStick()
+{
+	return stick;
+}
+
+OI::OI() {
+	stick=new Joystick(JOYSTICKPORT);
+}

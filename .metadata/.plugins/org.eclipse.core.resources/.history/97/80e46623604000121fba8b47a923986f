@@ -1,0 +1,25 @@
+#ifndef POLE_H
+#define POLE_H
+#include "Commands/Subsystem.h"
+#include "WPILib.h"
+
+/**
+ *
+ *
+ * @author yuval
+ */
+class Pole: public PIDSubsystem {
+private:
+	SpeedController* motor;
+	AnalogChannel* poten;
+public:
+	Pole();
+	void Use
+	void InitDefaultCommand();
+	bool isMs1Pressed();
+	bool isMs2Pressed();
+	void moveMotor(float speed);	
+	void status();
+};
+
+#endif

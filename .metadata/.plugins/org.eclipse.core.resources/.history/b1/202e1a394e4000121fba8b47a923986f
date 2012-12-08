@@ -1,0 +1,16 @@
+#ifndef OI_H
+#define OI_H
+
+#include "WPILib.h"
+
+class OI {
+private:
+	Joystick * stick;
+	SmartDashboard * sdb;
+public:
+	Joystick* getStick();
+	OI();
+	void putDataOnSmartDashboard
+};
+
+#endif

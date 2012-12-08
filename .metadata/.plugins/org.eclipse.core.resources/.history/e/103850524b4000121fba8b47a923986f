@@ -1,0 +1,20 @@
+#ifndef POLE_H
+#define POLE_H
+#include "Commands/Subsystem.h"
+#include "WPILib.h"
+
+/**
+ *
+ *
+ * @author yuval
+ */
+class Pole: public Subsystem {
+private:
+	SpeedController* motor;
+	DigitalInput * ms1, ms2;
+public:
+	Pole();
+	void InitDefaultCommand();
+};
+
+#endif

@@ -1,0 +1,16 @@
+#ifndef OI_H
+#define OI_H
+
+#include "WPILib.h"
+#define JOYSTICKPORT 1
+class OI {
+private:
+	Joystick * stick;
+	JoystickButton * trigger;
+public:
+	Joystick* getStick();
+	OI();
+	static const int TRIGERNUMBER=1;
+};
+
+#endif

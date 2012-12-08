@@ -1,0 +1,20 @@
+#ifndef POLE_H
+#define POLE_H
+#include "Commands/Subsystem.h"
+#include "WPILib.h"
+
+/**
+ *
+ *
+ * @author yuval
+ */
+class Pole: public Subsystem {
+private:
+	// It's desirable that everything possible under private except
+	// for methods that implement subsystem capabilities
+public:
+	Pole();
+	void InitDefaultCommand();
+};
+
+#endif

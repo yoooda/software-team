@@ -1,0 +1,21 @@
+#include "Pole.h"
+#include "../Robotmap.h"
+
+Pole::Pole() : Subsystem("Pole") {
+	
+}
+    
+void Pole::InitDefaultCommand() {
+	// Set the default command for a subsystem here.
+	//SetDefaultCommand(new MySpecialCommand());
+}
+
+bool Pole::isMS2Pressed()
+{
+}
+
+
+
+
+// Put methods for controlling this subsystem
+// here. Call these from Commands.

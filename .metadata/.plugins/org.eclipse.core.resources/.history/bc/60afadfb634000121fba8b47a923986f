@@ -1,0 +1,21 @@
+#ifndef MOVERIGHT_H
+#define MOVERIGHT_H
+
+#include "../CommandBase.h"
+
+/**
+ *
+ *
+ * @author yuval
+ */
+class MoveRight: public CommandBase {
+public:
+	MoveRight();
+	virtual void Initialize();
+	virtual void Execute();
+	virtual bool IsFinished();
+	virtual void End();
+	virtual void Interrupted();
+};
+
+#endif

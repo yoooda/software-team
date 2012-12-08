@@ -1,0 +1,15 @@
+#ifndef OI_H
+#define OI_H
+
+#include "WPILib.h"
+#define JOYSTICKPORT 1
+#define TRIGERPORT 1
+class OI {
+private:
+	Joystick * stick;
+public:
+	Joystick* getStick();
+	OI();
+};
+
+#endif

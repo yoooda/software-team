@@ -1,0 +1,10 @@
+#include "OI.h"
+#include "Robotmap.h"
+Joystick *OI::getStick()
+{
+	return stick;
+}
+
+OI::OI() {
+	stick=new Joystick(JOYSTICKPORT);
+}

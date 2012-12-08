@@ -1,0 +1,32 @@
+#include "MoveRight.h"
+
+MoveRight::MoveRight() :CommandBase("Move Right") {
+	// Use requires() here to declare subsystem dependencies
+	Requires(pole);
+}
+
+// Called just before this Command runs the first time
+void MoveRight::Initialize() {
+	
+}
+
+// Called repeatedly when this Command is scheduled to run
+void MoveRight::Execute() {
+	
+	pole->moveMotor(1);
+}
+
+// Make this return true when this Command no longer needs to run execute()
+bool MoveRight::IsFinished() {
+	return pole->isMs2Pressed();
+}
+
+// Called once after isFinished returns true
+void MoveRight::End() {
+	
+}
+
+// Called when another command which requires one or more of the same
+// subsystems is scheduled to run
+void MoveRight::Interrupted() {
+}

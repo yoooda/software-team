@@ -1,0 +1,32 @@
+#include "Pole.h"
+#include "../Robotmap.h"
+
+Pole::Pole() : Subsystem("Pole") {
+	motor=new Jaguar(MOTORPORT);
+	ms1=new DigitalInput(MS1PORT);
+	ms2=new DigitalInput(MS2PORT);
+}
+    
+void Pole::InitDefaultCommand() {
+	// Set the default command for a subsystem here.
+	//SetDefaultCommand(new MySpecialCommand());
+}
+
+void Pole::moveMotor(double speed)
+{
+}
+
+
+
+bool Pole::isMs1Pressed()
+{
+	return (bool)ms1->Get();
+}
+
+
+
+bool Pole::isMs2Pressed()
+{
+	return (bool)ms2->Get();
+}
+

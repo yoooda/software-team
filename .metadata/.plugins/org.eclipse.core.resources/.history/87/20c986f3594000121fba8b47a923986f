@@ -1,0 +1,13 @@
+#include "OI.h"
+#include "Commands/MoveWithJoystick.h"
+Joystick *OI::getStick()
+{
+	return stick;
+}
+
+OI::OI() {
+	stick=new Joystick(JOYSTICKPORT);
+	trigger= new JoystickButton(stick,1);
+	trigger->WhileHeld(new MoveWithJoystick());
+	
+}
