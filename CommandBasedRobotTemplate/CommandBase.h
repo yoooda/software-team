@@ -2,9 +2,8 @@
 #define COMMAND_BASE_H
 
 #include "Commands/Command.h"
-#include "Subsystems/Pole.h"
 #include "OI.h"
-
+#include "Subsystems/Magav.h"
 
 /**
  * The base for all commands. All atomic commands should subclass CommandBase.
@@ -17,9 +16,8 @@ public:
 	CommandBase();
 	static void init();
 	// Create a single static instance of all of your subsystems
-	static OI * oi;
-	static Pole * pole;
-	static void status();
+	static OI *oi;
+	static Magav * magav;
 };
 
 #endif

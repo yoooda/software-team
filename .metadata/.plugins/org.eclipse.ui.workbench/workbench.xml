@@ -35,21 +35,61 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="MoveRight.h" partName="MoveRight.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/MoveRight.h" title="MoveRight.h" tooltip="CommandBasedRobotTemplate/Commands/MoveRight.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/MoveRight.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="182"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Magav.h" partName="Magav.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Subsystems/Magav.h" title="Magav.h" tooltip="CommandBasedRobotTemplate/Subsystems/Magav.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Subsystems/Magav.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="362" selectionTopPixel="198"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="MoveRight.cpp" partName="MoveRight.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/MoveRight.cpp" title="MoveRight.cpp" tooltip="CommandBasedRobotTemplate/Commands/MoveRight.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/MoveRight.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="300" selectionTopPixel="279"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Magav.cpp" partName="Magav.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Subsystems/Magav.cpp" title="Magav.cpp" tooltip="CommandBasedRobotTemplate/Subsystems/Magav.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Subsystems/Magav.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="218" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="MoveLeft.cpp" partName="MoveLeft.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/MoveLeft.cpp" title="MoveLeft.cpp" tooltip="CommandBasedRobotTemplate/Commands/MoveLeft.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/MoveLeft.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="692" selectionTopPixel="942"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Robotmap.h" partName="Robotmap.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Robotmap.h" title="Robotmap.h" tooltip="CommandBasedRobotTemplate/Robotmap.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Robotmap.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="145" selectionTopPixel="31"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="OI.cpp" partName="OI.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/OI.cpp" title="OI.cpp" tooltip="CommandBasedRobotTemplate/OI.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/OI.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="66" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="OI.h" partName="OI.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/OI.h" title="OI.h" tooltip="CommandBasedRobotTemplate/OI.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/OI.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="128" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.h" partName="CommandBase.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/CommandBase.h" title="CommandBase.h" tooltip="CommandBasedRobotTemplate/CommandBase.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/CommandBase.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="385" selectionTopPixel="167"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.cpp" partName="CommandBase.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/CommandBase.cpp" title="CommandBase.cpp" tooltip="CommandBasedRobotTemplate/CommandBase.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/CommandBase.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="377" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Move.cpp" partName="Move.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/Move.cpp" title="Move.cpp" tooltip="CommandBasedRobotTemplate/Commands/Move.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/Move.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="159" selectionTopPixel="105"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Move.h" partName="Move.h" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/Move.h" title="Move.h" tooltip="CommandBasedRobotTemplate/Commands/Move.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/Move.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="166" selectionTopPixel="43"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Stop.cpp" partName="Stop.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/Stop.cpp" title="Stop.cpp" tooltip="CommandBasedRobotTemplate/Commands/Stop.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/Stop.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="687" selectionTopPixel="446"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="NewCommandGroup.cpp" partName="NewCommandGroup.cpp" path="C:/Users/yuval/Documents/GitHub/software-team/CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp" title="NewCommandGroup.cpp" tooltip="CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="149" selectionTopPixel="74"/>
 </editor>
 </editors>
 <views>
@@ -72,8 +112,7 @@
 </view>
 <view id="com.windriver.ide.ui.build.WRBuildConsoleView" partName="Build Console">
 <viewState>
-<buildArgsViewState traceBuildRun="true">
-<buildArgs selection=""/>
+<buildArgsViewState traceBuildRun="true">&#x0A;<buildArgs selection=""/>
 </buildArgsViewState>
 </viewState>
 </view>
@@ -571,7 +610,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.20295203" ratioLeft="275" ratioRight="1080" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.85806453" ratioLeft="532" ratioRight="88" relationship="4" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="biz.junginger.newsfeed.eclipse.FeedView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
 <page content="org.eclipse.tm.terminal.view.TerminalView" label="LabelNotFound"/>
@@ -587,7 +626,7 @@
 </folder>
 </info>
 <info folder="true" part="right" ratio="0.8783658" ratioLeft="946" ratioRight="131" relationship="2" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
@@ -777,162 +816,167 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Subsystems/Pole.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Subsystems/Pole.cpp"/>
-<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\WindRiver\vxworks-6.3\target\h\WPILib\Commands\PIDSubsystem.h" project="CommandBasedRobotTemplate"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/MoveRight.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/MoveRight.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/MoveLeft.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Subsystems/Magav.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Robotmap.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/OI.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/CommandBase.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/CommandBase.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/Move.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/Move.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/Stop.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/Stop.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/OI.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp"/>
 </editors>
-<item historyLabel="PIDSubsystem.h" index="2">
+<item historyLabel="CommandBase.cpp" index="4">
+<position info="not_deleted" x="377" y="0"/>
+</item>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="CommandBase.h" index="3">
+<position info="not_deleted" x="385" y="11"/>
+</item>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="67" y="0"/>
+</item>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="221" y="0"/>
+</item>
+<item historyLabel="Move.cpp" index="5">
 <position/>
 </item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="150" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="183" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="239" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="49" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="323" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="527" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="67" y="0"/>
 </item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="212" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="323" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="67" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="312" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="357" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="283" y="0"/>
 </item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="148" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="323" y="0"/>
 </item>
-<item historyLabel="PIDSubsystem.h" index="2">
-<position info="not_deleted" x="1425" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="283" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="650" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="323" y="0"/>
 </item>
-<item historyLabel="PIDSubsystem.h" index="2">
-<position info="not_deleted" x="1425" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="283" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="183" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="1086" y="2"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="283" y="0"/>
 </item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="82" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="183" y="0"/>
 </item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="356" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="176" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="1086" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="283" y="0"/>
 </item>
-<item historyLabel="MoveRight.h" index="3">
-<position/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="139" y="0"/>
-</item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="193" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="486" y="0"/>
-</item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="193" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="423" y="0"/>
-</item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="193" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="423" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="486" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="491" y="0"/>
-</item>
-<item historyLabel="MoveRight.h" index="3">
-<position info="not_deleted" x="193" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="845" y="0"/>
-</item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
-</item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="147" y="0"/>
-</item>
-<item historyLabel="PIDSubsystem.h" index="2">
-<position info="not_deleted" x="860" y="28"/>
-</item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="147" y="0"/>
-</item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="244" y="0"/>
-</item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="74" y="0"/>
-</item>
-<item historyLabel="Pole.cpp" index="1">
+<item historyLabel="Move.cpp" index="5">
 <position info="not_deleted" x="286" y="0"/>
 </item>
-<item historyLabel="Pole.h" index="0">
-<position info="not_deleted" x="240" y="0"/>
+<item historyLabel="Move.h" index="6">
+<position info="not_deleted" x="166" y="0"/>
 </item>
-<item historyLabel="Pole.cpp" index="1">
-<position info="not_deleted" x="479" y="0"/>
+<item historyLabel="Move.cpp" index="5">
+<position info="not_deleted" x="159" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="252" y="57"/>
+<item historyLabel="Stop.h" index="7">
+<position/>
 </item>
-<item historyLabel="MoveLeft.cpp" index="5">
-<position info="not_deleted" x="275" y="0"/>
+<item historyLabel="Stop.cpp" index="8">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="409" y="53"/>
+<item historyLabel="Stop.cpp" index="8">
+<position info="not_deleted" x="141" y="0"/>
 </item>
-<item historyLabel="MoveLeft.cpp" index="5">
-<position info="not_deleted" x="427" y="21"/>
+<item historyLabel="Stop.cpp" index="8">
+<position info="not_deleted" x="687" y="0"/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="160" y="0"/>
+<item historyLabel="Magav.cpp" index="0">
+<position info="not_deleted" x="66" y="0"/>
 </item>
-<item historyLabel="MoveLeft.cpp" index="5">
-<position info="not_deleted" x="625" y="0"/>
+<item historyLabel="Stop.h" index="7">
+<position/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="603" y="47"/>
+<item historyLabel="Magav.cpp" index="0">
+<position info="not_deleted" x="68" y="0"/>
 </item>
-<item historyLabel="MoveLeft.cpp" index="5">
-<position info="not_deleted" x="1048" y="0"/>
+<item historyLabel="Stop.h" index="7">
+<position/>
 </item>
-<item historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="899" y="187"/>
+<item historyLabel="Magav.cpp" index="0">
+<position info="not_deleted" x="218" y="0"/>
 </item>
-<item historyLabel="MoveLeft.cpp" index="5">
-<position info="not_deleted" x="692" y="19"/>
+<item historyLabel="OI.h" index="2">
+<position info="not_deleted" x="119" y="0"/>
 </item>
-<item active="true" historyLabel="MoveRight.cpp" index="4">
-<position info="not_deleted" x="899" y="187"/>
+<item historyLabel="Robotmap.h" index="1">
+<position info="not_deleted" x="121" y="0"/>
+</item>
+<item historyLabel="OI.h" index="2">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Robotmap.h" index="1">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Magav.cpp" index="0">
+<position info="not_deleted" x="218" y="0"/>
+</item>
+<item historyLabel="OI.h" index="2">
+<position info="not_deleted" x="128" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="203" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="114" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item historyLabel="Stop.h" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item historyLabel="OI.cpp" index="9">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item active="true" historyLabel="NewCommandGroup.cpp" index="10">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -940,10 +984,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-<trimItem IMemento.internal.id="leftbottom"/>
-</trimArea>
 <trimArea IMemento.internal.id="131072">
 <trimItem IMemento.internal.id="right"/>
 </trimArea>
@@ -960,6 +1000,42 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="NewCommandGroup.cpp" tooltip="CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp">
+<persistable path="/CommandBasedRobotTemplate/Commands/NewCommandGroup.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Stop.h" tooltip="CommandBasedRobotTemplate/Commands/Stop.h">
+<persistable path="/CommandBasedRobotTemplate/Commands/Stop.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Stop.cpp" tooltip="CommandBasedRobotTemplate/Commands/Stop.cpp">
+<persistable path="/CommandBasedRobotTemplate/Commands/Stop.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Move.h" tooltip="CommandBasedRobotTemplate/Commands/Move.h">
+<persistable path="/CommandBasedRobotTemplate/Commands/Move.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Move.cpp" tooltip="CommandBasedRobotTemplate/Commands/Move.cpp">
+<persistable path="/CommandBasedRobotTemplate/Commands/Move.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.cpp" tooltip="CommandBasedRobotTemplate/CommandBase.cpp">
+<persistable path="/CommandBasedRobotTemplate/CommandBase.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.h" tooltip="CommandBasedRobotTemplate/CommandBase.h">
+<persistable path="/CommandBasedRobotTemplate/CommandBase.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OI.h" tooltip="CommandBasedRobotTemplate/OI.h">
+<persistable path="/CommandBasedRobotTemplate/OI.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OI.cpp" tooltip="CommandBasedRobotTemplate/OI.cpp">
+<persistable path="/CommandBasedRobotTemplate/OI.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Robotmap.h" tooltip="CommandBasedRobotTemplate/Robotmap.h">
+<persistable path="/CommandBasedRobotTemplate/Robotmap.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Magav.cpp" tooltip="CommandBasedRobotTemplate/Subsystems/Magav.cpp">
+<persistable path="/CommandBasedRobotTemplate/Subsystems/Magav.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Magav.h" tooltip="CommandBasedRobotTemplate/Subsystems/Magav.h">
+<persistable path="/CommandBasedRobotTemplate/Subsystems/Magav.h"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MoveLeft.cpp" tooltip="CommandBasedRobotTemplate/Commands/MoveLeft.cpp">
 <persistable path="/CommandBasedRobotTemplate/Commands/MoveLeft.cpp"/>
 </file>
@@ -968,42 +1044,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Pole.h" tooltip="CommandBasedRobotTemplate/Subsystems/Pole.h">
 <persistable path="/CommandBasedRobotTemplate/Subsystems/Pole.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Pole.cpp" tooltip="CommandBasedRobotTemplate/Subsystems/Pole.cpp">
-<persistable path="/CommandBasedRobotTemplate/Subsystems/Pole.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MoveRight.cpp" tooltip="CommandBasedRobotTemplate/Commands/MoveRight.cpp">
-<persistable path="/CommandBasedRobotTemplate/Commands/MoveRight.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MoveRight.h" tooltip="CommandBasedRobotTemplate/Commands/MoveRight.h">
-<persistable path="/CommandBasedRobotTemplate/Commands/MoveRight.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.cpp" tooltip="CommandBasedRobotTemplate/CommandBase.cpp">
-<persistable path="/CommandBasedRobotTemplate/CommandBase.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBase.h" tooltip="CommandBasedRobotTemplate/CommandBase.h">
-<persistable path="/CommandBasedRobotTemplate/CommandBase.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Robotmap.h" tooltip="CommandBasedRobotTemplate/Robotmap.h">
-<persistable path="/CommandBasedRobotTemplate/Robotmap.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OI.h" tooltip="CommandBasedRobotTemplate/OI.h">
-<persistable path="/CommandBasedRobotTemplate/OI.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OI.cpp" tooltip="CommandBasedRobotTemplate/OI.cpp">
-<persistable path="/CommandBasedRobotTemplate/OI.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MoveWithJoystick.cpp" tooltip="CommandBasedRobotTemplate/Commands/MoveWithJoystick.cpp">
-<persistable path="/CommandBasedRobotTemplate/Commands/MoveWithJoystick.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="StopPole.cpp" tooltip="CommandBasedRobotTemplate/Commands/StopPole.cpp">
-<persistable path="/CommandBasedRobotTemplate/Commands/StopPole.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="CommandBasedRobot.cpp" tooltip="CommandBasedRobotTemplate/CommandBasedRobot.cpp">
-<persistable path="/CommandBasedRobotTemplate/CommandBasedRobot.cpp"/>
-</file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="IterativeRobot.h" tooltip="C:\WindRiver\vxworks-6.3\target\h\WPILib\IterativeRobot.h">
-<persistable path="C:\WindRiver\vxworks-6.3\target\h\WPILib\IterativeRobot.h" project="CommandBasedRobotTemplate"/>
 </file>
 </mruList>
 </workbench>

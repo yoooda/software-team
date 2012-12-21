@@ -1,10 +1,11 @@
 #ifndef ROBOTMAP_H
 #define ROBOTMAP_H
 
-
 #define MOTORPORT 1
-#define POTENPORT 1
-
+#define MS1PORT 1
+#define MS2PORT 2
+#define JOYSTICKPORT 1
+#define TRIGGERPORT 1
 /**
  * The RobotMap is a mapping from the ports sensors and actuators are wired into
  * to a variable name. This provides flexibility changing wiring, makes checking

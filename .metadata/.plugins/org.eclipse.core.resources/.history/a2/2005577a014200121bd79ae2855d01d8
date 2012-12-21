@@ -1,0 +1,35 @@
+#include "Magav.h"
+#include "../Robotmap.h"
+
+Magav::Magav() : Subsystem("Magav") {
+	motor = new Gyro(MOTORPORT);
+	ms1= new DigitalInput(MS1PORT);
+	ms2= new DigitalInput(MS2PORT);
+}
+    
+void Magav::InitDefaultCommand() {
+	// Set the default command for a subsystem here.
+	//SetDefaultCommand(new MySpecialCommand());
+}
+
+void Magav::moveMotor(float speed)
+{
+}
+
+
+
+bool Magav::ms1Pressed()
+{
+}
+
+
+
+bool Magav::ms2Pressed()
+{
+}
+
+
+
+
+// Put methods for controlling this subsystem
+// here. Call these from Commands.

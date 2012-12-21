@@ -8,15 +8,12 @@ CommandBase::CommandBase() : Command() {
 }
 
 // Initialize a single static instance of all of your subsystems to NULL
+Magav * CommandBase::magav=NULL;
 OI* CommandBase::oi = NULL;
-Pole * CommandBase::pole=NULL;
+
 void CommandBase::init() {
     // Create a single static instance of all of your subsystems. The following
 	// line should be repeated for each subsystem in the project.
-	pole=new Pole();
+	magav=new Magav();
 	oi = new OI();
-}
-void CommandBase::status()
-{
-	pole->status();
 }

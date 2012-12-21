@@ -1,19 +1,8 @@
 #include "OI.h"
-#include "Commands/MoveWithJoystick.h"
-#include "Commands/MoveLeft.h"
-#include "Commands/MoveRight.h"
-Joystick *OI::getStick()
-{
-	return stick;
-}
-
+#include "Robotmap.h"
+#include "Commands/Move.h"
 OI::OI() {
 	stick = new Joystick(JOYSTICKPORT);
-	trigger = new JoystickButton(stick,1);
-	btn2 = new JoystickButton(stick, 2);
-	btn3 = new JoystickButton(stick, 3);
-	
-	trigger->WhileHeld(new MoveWithJoystick());
-	btn2->WhenPressed(new MoveLeft());
-	btn3->WhenPressed(new MoveRight());
+	trigger = new JoystickButton(stick,TRIGGERPORT);
+	trigger->WhileHeld(new Move());
 }

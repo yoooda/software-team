@@ -1,6 +1,6 @@
 #include "WPILib.h"
 #include "Commands/Command.h"
-
+#include "Commands/ExampleCommand.h"
 #include "CommandBase.h"
 
 class CommandBasedRobot : public IterativeRobot {
@@ -9,7 +9,7 @@ private:
 	
 	virtual void RobotInit() {
 		CommandBase::init();
-		//autonomousCommand = new ExampleCommand();
+		autonomousCommand = new ExampleCommand();
 	}
 	
 	virtual void AutonomousInit() {
@@ -30,8 +30,6 @@ private:
 	
 	virtual void TeleopPeriodic() {
 		Scheduler::GetInstance()->Run();
-		
-		CommandBase::status();
 	}
 };
 

@@ -1,0 +1,20 @@
+#ifndef MAGAV_H
+#define MAGAV_H
+#include "Commands/Subsystem.h"
+#include "WPILib.h"
+
+/**
+ *
+ *
+ * @author yuval
+ */
+class Magav: public Subsystem {
+private:
+	// It's desirable that everything possible under private except
+	// for methods that implement subsystem capabilities
+public:
+	Magav();
+	void InitDefaultCommand();
+};
+
+#endif

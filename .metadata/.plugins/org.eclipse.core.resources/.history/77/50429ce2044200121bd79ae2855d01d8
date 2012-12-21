@@ -1,0 +1,38 @@
+#include "Move.h"
+
+Move::Move() {
+	Requires(magav);
+	speed=1;
+}
+
+// Called just before this Command runs the first time
+void Move::Initialize() {
+	
+}
+
+// Called repeatedly when this Command is scheduled to run
+void Move::Execute() {
+	if(magav->ms1Pressed())
+		speed=1;
+	else if(magav->ms2Pressed())
+		speed=-1;
+
+	magav->moveMotor(speed);
+}
+
+// Make this return true when this Command no longer needs to run execute()
+bool Move::IsFinished() {
+	return false;
+}
+
+// Called once after isFinished returns true
+void Move::End() {
+	magav->moveMotor(0);
+}
+
+
+// Called when another command which requires one or more of the same
+// subsystems is scheduled to run
+void Move::Interrupted() {
+	magav->moveMotor(0);
+}
